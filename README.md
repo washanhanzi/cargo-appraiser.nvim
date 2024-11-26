@@ -1,7 +1,8 @@
 # cargo-appraiser.nvim
 
 1. [downlaod](https://github.com/washanhanzi/cargo-appraiser/releases) and add the lsp to your path
-2. lazy:
+2. make sure it named as `cargo-appraiser`
+3. lazy:
 
 ```lua
 {
